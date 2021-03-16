@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BankDB</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="string_date">30 APR</string>
+    <string name="txt_title_fee">Fee</string>
+    <string name="txt_value_fee">-5,4</string>
+    <string name="txt_value_amount">-60,35</string>
+    <string name="txt_description_value">Pago en gasolinera</string>
+    <string name="in">In</string>
+    <string name="out">out</string>
+    <string name="accept">Aceptar</string>
+    <string name="alert">AVISO</string>
+    <string name="close">Cerrar</string>
+    <string name="transaction_list">Transaction List</string>
+    <string name="profile">Profile</string>
+
+
+    //PROFILE STRINGS
+    <string name="namesaved">Mi nombre</string>
+    <string name="usernamesaved">Mi nombre de usuario</string>
+    <string name="hintname">Indica tu nombre</string>
+    <string name="hinusername">Indica tu nombre de usuario</string>
+    <string name="emptyname">Cuándo añadas tu nombre aparecerá aquí</string>
+    <string name="emptyusernname">Cuándo añadas tu nombre de usuario aparecerá aquí</string>
+
+
+    //START FRAGMENT PROFILE / TRANSACTIONS
+    <string name="transactionName">Mis Transactions</string>
+    <string name="transactionDescription">Observa tus movimientos recientes con la tarjeta y visualiza los detalles con solo pulsar al que deseas</string>
+    <string name="profileName">Mi perfil</string>
+    <string name="profileDescription">Visualiza tu perfil, puedes editar tus valores en cualquier momento</string>
+    <string name="seetransactions">Ver transactions</string>
+    <string name="seeprofile">Ver perfil</string>
+
+    //DETAILS FRAGMENT
+    <string name="details">Detalles</string>
+    <string name="detailsdescription">Puedes comprobar los detalles de esta transiction en versión apliada para no perderte ningún detalle</string>
+
+</resources>
